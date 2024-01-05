@@ -2,7 +2,7 @@ import Foundation
 
 
 /// Reprent unique API endpoint
-@frozen enum Endpiont: String {
+@frozen enum RMEndpoint: String {
     ///API Endpoints
     case episode
     case character
